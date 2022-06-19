@@ -1,0 +1,55 @@
+
+
+.txt-10{
+	font-size: 10px !important;
+}
+
+.txt-12{
+	font-size: 12px !important;
+}
+
+.txt-14{
+	font-size: 14px !important;
+}
+
+.txt-16{
+	font-size: 16px !important;
+}
+
+.txt-18{
+	font-size: 18px !important;
+}
+
+.txt-20{
+	font-size: 20px !important;
+}
+
+.non-souligne{
+	text-decoration:none;
+}
+
+.header{
+	background-color: #2da1c3;
+	color: white !important;
+}
+
+.txt-white{
+	color: white !important;
+}
+
+.bg-transparent{
+	background: transparent !important;
+}
+
+.no-border-radius{
+	border-radius: 0px !important;
+}
+
+.btn{
+	border-radius: 0px !important;
+}
+
+.hidden{
+	visibility: hidden !important;
+	display: none;
+}
